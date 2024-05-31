@@ -35,6 +35,7 @@
     <li>ESP32</li>
     <li>DS3231 RTC module</li>
     <li>Stepper motor</li>
+    <li>Buzzer</li>
 </ul>
 
 <h2>Software Requirements</h2>
