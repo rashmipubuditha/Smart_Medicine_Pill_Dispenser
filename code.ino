@@ -11,7 +11,7 @@
 #include "Arduino.h"
 #include <Stepper.h>
 
-// #define WIFI_SSID "wifi_ID"
+#define WIFI_SSID "wifi_ID"
 #define WIFI_PASSWORD "73cbqdmcijverevfd"
 #define API_KEY "vG19mV1o2ZJqtuQsebcE4vr5mEJrSdZjzjmRlaWghg"
 #define DATABASE_URL "database_URL/"  //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
